@@ -1,0 +1,15 @@
+body {
+  margin: 20px;
+        background-color: black;
+    color: white;
+}
+
+#animation {
+    width: 90%;
+    height: 90%;
+        background-color: white;
+}
+
+button {
+            background-color: white;
+}
